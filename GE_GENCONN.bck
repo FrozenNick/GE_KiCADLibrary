@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP General_12pins
+D Generic Connector, 2.54mm Pitch, 12 Ways
+K connector
+F ~
+$ENDCMP
+#
+$CMP General_16pins
+D Generic Connector, 2.54mm Pitch, 16 Ways
+K connector
+F ~
+$ENDCMP
+#
+$CMP General_40pins
+D Generic Connector, 2.54mm Pitch, 40 Ways, 2 Rows
+K connector
+F ~
+$ENDCMP
+#
+$CMP General_5pins
+D Generic Connector, 2.54mm Pitch, 5 Ways
+K connector
+F ~
+$ENDCMP
+#
+$CMP General_6pins
+D Generic Connector, 2.54mm Pitch, 6 Ways
+K connector
+F ~
+$ENDCMP
+#
+$CMP General_7pins
+D Generic Connector, 2.54mm Pitch, 7 Ways
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALDP1xxW
+D Panasonic Slim 5A Power Relay, 7.2mm
+K SPST
+F http://www.farnell.com/datasheets/3105596.pdf?_ga=2.39880165.632875000.1603800259-657772658.1602833869&_gac=1.23919048.1603860542.Cj0KCQjwit_8BRCoARIsAIx3Rj6u1i_jggtJwKosdF2i15002ZU4UXOfFDSvl_dMQSBCTYlT75NPbG4aAm7OEALw_wcB
+$ENDCMP
+#
+$CMP JTN1AS-PA-F-DCxx
+D Compact PCB Relay, 30A
+K SPST
+F https://docs.rs-online.com/728a/0900766b80e32463.pdf
+$ENDCMP
+#
+$CMP OJE-SS-1xx-LMH
+D Miniature PCB Relay, 8A
+K SPST
+F https://my.mouser.com/datasheet/2/418/5/te_ENG_DS_OJ_OJE_series_relay_data_sheet_E_0412-1210634.pdf
+$ENDCMP
+#
+#End Doc Library
